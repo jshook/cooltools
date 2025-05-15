@@ -1,2 +1,33 @@
 # cooltools
 Cool tools made by others, maybe these will be bundled
+
+* https://github.com/mfontanini/presenterm
+* https://github.com/Canop/dysk
+* https://github.com/willswire/teemoji
+* https://github.com/josephburnett/jd
+* https://github.com/pythops/impala
+* https://github.com/BurntSushi/xsv
+* https://github.com/dathere/qsv
+* https://github.com/medialab/xan
+* https://github.com/multiprocessio/dsq
+* https://github.com/hackerb9/lsix
+* https://github.com/wagoodman/dive
+* https://github.com/gcla/termshark
+* https://github.com/orf/gping
+* https://github.com/red-data-tools/YouPlot
+* https://github.com/nalgeon/sqlean
+* https://github.com/datastax-labs/astra-cli
+* https://github.com/httpie/cli
+* https://github.com/TomWright/dasel
+* https://github.com/MisterTea/EternalTerminal
+* https://github.com/phiresky/ripgrep-all
+* https://github.com/syncthing/syncthing
+* https://github.com/charmbracelet/glow
+* https://github.com/rclone/rclone
+* https://github.com/asciinema/asciinema-player
+* https://github.com/Canop/broot
+* https://github.com/dhobsd/castty
+* https://github.com/bootandy/dust
+* https://github.com/iovisor/bcc
+* https://github.com/dflemstr/rq
+* https://github.com/tobert/pcstat
