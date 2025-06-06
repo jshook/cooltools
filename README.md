@@ -33,3 +33,4 @@ Cool tools made by others, maybe these will be bundled
 * https://github.com/tobert/pcstat
 * https://github.com/LuminousToaster/ripwc/
 * https://github.com/ribbondz/rsv
+* https://github.com/kornelski/dupe-krill
