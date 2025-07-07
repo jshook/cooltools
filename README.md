@@ -35,3 +35,4 @@ Cool tools made by others, maybe these will be bundled
 * https://github.com/ribbondz/rsv
 * https://github.com/kornelski/dupe-krill
 * https://github.com/aragozin/jvm-tools
+* https://github.com/richardscollin/tmux-rs
